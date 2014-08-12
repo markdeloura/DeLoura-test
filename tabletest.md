@@ -2,13 +2,14 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 | :-----: | :-----: |
-| Table Headings   | Here |
+| Table Headings   | Here | |
 | Sub   | Headings | Too  |
-| cell  | column spanning |
+| cell  | column spanning | |
 | spans | :--: | :--: |
 | rows  | normal   | cell |
-| multi | * cells can be  |
-| line  | * formatted     |
-| cells | * paragraphs    |
-| too   |                 |
+| multi | * cells can be  | |
+| line  | * formatted     | |
+| cells | * paragraphs    | |
+| too   |                 | |
+
 
