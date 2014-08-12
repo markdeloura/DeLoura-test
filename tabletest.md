@@ -1,4 +1,5 @@
-
+| Table Heading | Here |
+| :-----: | :-----: |
 
 +-------+----------+------+
 | Table Headings   | Here |
