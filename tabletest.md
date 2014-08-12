@@ -4,7 +4,7 @@
 | Table Headings   | Here |
 | Sub   | Headings | Too  |
 | cell  | column spanning |
-+ spans +----------+------+
+| spans | :--: | :--: |
 | rows  | normal   | cell |
 | multi | * cells can be  |
 | line  | * formatted     |
