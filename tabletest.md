@@ -1,5 +1,5 @@
 |   Table  |   Table  |   Table  |   Table  |   Table  |   Table  |   Table  |   Table  |   Table  |   Table  |   Table  |
-| :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 +-------+----------+------+
 | Table Headings   | Here |
